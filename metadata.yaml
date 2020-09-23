@@ -1,5 +1,5 @@
 _repo: Siperialaisten-maanpakolaisten-elamasta-Metsa-humisee-Metsalegenda_63239
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Pakkala, Hanna
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '45341'
     url: http://www.gutenberg.org/2009/agents/45341
     wikipedia: https://fi.wikipedia.org/wiki/Hanna_Pakkala
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Korolenko, Vladimir Galaktionovich
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5088
     wikipedia: http://en.wikipedia.org/wiki/Vladimir_Korolenko
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63239#Siperialaisten-maanpakolaisten-elamasta-Metsa-humisee-Metsalegenda
 gutenberg_issued: '2020-09-19'
 gutenberg_type: Text
 identifiers:
